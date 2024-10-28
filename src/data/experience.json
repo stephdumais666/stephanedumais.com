@@ -1,0 +1,57 @@
+{
+  "valtech": {
+    "name": "Absolunet/Valtech",
+    "start": "2021-06",
+    "end": "2024-10",
+    "color": "#C7B3CC"
+  },
+
+  "desjardins": {
+    "name": "Desjardins",
+    "start": "2020-09",
+    "end": "2021-10",
+    "color": "#B5AEC9"
+  },
+  "globalia": {
+    "name": "Globalia",
+    "start": "2019-06",
+    "end": "2020-09",
+    "color": "#A3AAC6"
+  },
+  "minimal": {
+    "name": "Agence Minimal",
+    "start": "2017-09",
+    "end": "2019-06",
+    "color": "#91A5C3"
+  },
+  "securecom": {
+    "name": "SecurEcom Services Conseils",
+    "start": "2016-09",
+    "end": "2017-09",
+    "color": "#7FA1C0"
+  },
+  "archipel": {
+    "name": "Archipel Syndergie Créative",
+    "start": "2005-05",
+    "end": "2016-08",
+    "color": "#6E9CBE"
+  },
+  "pw": {
+    "name": "Pratt & Whitney Rzeszow",
+    "start": "2002-12",
+    "end": "2005-05",
+    "color": "#5C98BB"
+  },
+  "gameloft": {
+    "name": "Gameloft",
+    "start": "2001-12",
+    "end": "2002-12",
+    "color": "#4A93B8"
+  },
+  "hbe": {
+    "name": "HBE Software",
+    "start": "1999-01",
+    "end": "2001-12",
+    "color": "#388FB5"
+  }
+}
